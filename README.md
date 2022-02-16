@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Git, C#, .NET,
 Relational Databases & SQL, HTTP & Web API Basics,
 Unit Testing, Test Driven Development, Clean Code, 
-SOLID, Design Patterns, HTML & CSS, TypeScript & NodeJS basics
+SOLID, Design Patterns, HTML & CSS, Angular CLI
 
 
 

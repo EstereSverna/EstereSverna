@@ -1,10 +1,12 @@
-👋 Hi, I’m Estere Šverna
-- 👀 C#/.NET developer with interest and passion in mathematics. I’m always trying to fully understand the path to each solution. Constantly searching for new professional and personal challenges to accept. 
-- 🌱 I’m currently learning Git, C#, .NET,
-Relational Databases & SQL, HTTP & Web API Basics,
-Unit Testing, Test Driven Development, Clean Code, 
-SOLID, Design Patterns, HTML & CSS, Angular CLI
+<h3>👋 Hi, I’m Estere Šverna</h3>
 
+🔭  C#/.NET developer with an interest and passion for mathematics. For me, passion is the attention and energy given to whatever is right in front, so I am not searching but developing it. I’m challenging myself professionally and personally every day to understand the path to each solution and acquire new knowledge.
+
+🌱 My skillset includes Git, C#, .NET,
+Relational Databases & SQL, HTTP & Web API Basics,
+Unit Testing, Test Driven Development, HTML & CSS, Angular CLI
+
+👨‍💻 Currently learning HTML & CSS, Angular CLI and creating new projects. 
 
 
 <!---

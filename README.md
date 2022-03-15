@@ -6,7 +6,7 @@
 Relational Databases & SQL, HTTP & Web API Basics,
 Unit Testing, Test Driven Development, HTML & CSS, Angular CLI
 
-👨‍💻 Currently learning HTML & CSS, Angular CLI and creating new projects. 
+👨‍💻 Currently creating new projects - developing driving school managment system and flight planner-application which can store flights between different airports and allows to search them. 
 
 
 <!---

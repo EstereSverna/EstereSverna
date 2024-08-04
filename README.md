@@ -6,8 +6,7 @@
 Relational Databases & SQL, HTTP & Web API Basics,
 Unit Testing, Test Driven Development, HTML & CSS, Angular CLI
 
-👨‍💻 Currently creating new projects - developing driving school managment system and flight planner-application which can store flights between different airports and allows to search them. 
-
+👨‍💻 Currently embracing new changes
 
 <!---
 EstereSverna/EstereSverna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

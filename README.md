@@ -1,5 +1,5 @@
 <span align="center">
-<h1>★☆★☆★☆★☆★☆★☆★ &nbsp;&nbsp;&nbsp; Hi, I'm Estere! &nbsp;&nbsp;&nbsp;  ★☆★☆★☆★☆★☆★☆★</h1>
+<h1>★☆★☆★☆★☆★☆★☆★ &nbsp; Hi, I'm Estere! &nbsp;  ★☆★☆★☆★☆★☆★☆★</h1>
 <h3 style="text-align: center;">Software Developer | Problem-Solver | Continuous Learner</h3>
 </span>
 
